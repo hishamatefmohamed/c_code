@@ -1,1 +1,1 @@
-# c_code
+# c++_code
